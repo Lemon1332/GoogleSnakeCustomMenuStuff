@@ -5,14 +5,14 @@ window.snake.more_menu = function() {
   
   // micro
   let img = new Image;
-  img.src = 'https://github.com/carlgustavh/GoogleSnakeCustomMenuStuffImages/blob/main/Micro.png?raw=true';
+  img.src = 'https://github.com/Lemon1332/m/blob/main/maxresdefault.jpg';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // tiny
   img = new Image;
-  img.src = 'https://github.com/carlgustavh/GoogleSnakeCustomMenuStuffImages/blob/main/Tiny.png?raw=true';
+  img.src = 'https://github.com/Lemon1332/m/blob/main/maxresdefault.jpg';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
@@ -25,14 +25,14 @@ window.snake.more_menu = function() {
 
   // super big
   img = new Image;
-  img.src = 'https://github.com/carlgustavh/GoogleSnakeCustomMenuStuffImages/blob/main/Super%20Big.png?raw=true';
+  img.src = 'https://github.com/Lemon1332/m/blob/main/maxresdefault.jpg';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // ultra big
   img = new Image;
-  img.src = 'https://github.com/carlgustavh/GoogleSnakeCustomMenuStuffImages/blob/main/Too%20Big.png?raw=true';
+  img.src = 'https://github.com/Lemon1332/m/blob/main/maxresdefault.jpg';
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
@@ -46,14 +46,14 @@ window.snake.more_menu = function() {
 
   // too big
   img = new Image;
-  img.src = 'https://github.com/carlgustavh/GoogleSnakeCustomMenuStuffImages/blob/main/Too%20Big.png?raw=true';
+  img.src = 'https://github.com/Lemon1332/m/blob/main/maxresdefault.jpg;
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
 
   // too big
   img = new Image;
-  img.src = 'https://github.com/carlgustavh/GoogleSnakeCustomMenuStuffImages/blob/main/Way%20Too%20Big.png?raw=true';
+  img.src = 'https://github.com/Lemon1332/m/blob/main/maxresdefault.jpg;
   img.width = 47;
   img.height = 47;
   document.querySelector('#size').appendChild(img);
