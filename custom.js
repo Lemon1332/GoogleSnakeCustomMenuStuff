@@ -477,7 +477,7 @@ window.snake.more_menu = function() {
               __b = document.body.getElementsByClassName('UJhXPd wSwbef EWyEF')[0];
               [...__b.children].forEach((e, i) => i > 1 && (__b.removeChild(__b.children[i])));
               __c = new Image;
-              __c.src = 'https://github.com/carlgustavh/GoogleSnakeCustomMenuStuffImages/blob/main/13.png?raw=true';
+              __c.src = 'https://github.com/Lemon1332/m/blob/main/maxresdefault.jpg';
               __c.width = __c.height = 47;
               __c.style = 'position:fixed;top: 10px;';
               __b.appendChild(__c);
